@@ -16,7 +16,7 @@ You don't need to be a developer or an engineer to be a part of this. There's al
  
 That said, if you do write code or work with hardware, we'd love your help. A good first step is to:
  
-1. Check out issues in the the start-here repository to get an idea of what we're currently doing
+1. Check out issues in the the [start-here](https://github.com/LA-Solarpunk/start-here/issues) repository to get an idea of what we're currently doing
 2. Open an issue or leave a comment if something catches your eye
 3. Reach out to us on Discord (link below) to see how you can get involved!
 
